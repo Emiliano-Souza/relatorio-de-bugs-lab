@@ -68,7 +68,7 @@ Os quatro casos foram executados no Qase, na execução **Execução de Testes -
 - Reprovados (Failed): 1
 - Taxa de execução: 100%
 
-<img width="2496" height="1378" alt="Screenshot 2026-11-18 093056" src="https://github.com/user-attachments/assets/e3c0eb78-0154-4aae-88bf-25d30d526795" />
+<img width="2560" height="1422" alt="image" src="https://github.com/user-attachments/assets/8ca376ad-34e2-463c-9268-63cbfd9d0e0e" />
 
 ## Defeito encontrado
 
