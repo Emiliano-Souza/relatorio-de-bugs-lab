@@ -1,7 +1,9 @@
 # Atividade: Primeiro Teste de Software
 
 **Estudante:** Emiliano Ferreira de Souza Junior
-**Curso e período:** Bacharelado em Sistemas de Informação, 8º período  
+
+**Curso e período:** Bacharelado em Sistemas  Informação, 8º período  
+
 **Disciplina:** Teste de Software
 
 ## Sistema testado
