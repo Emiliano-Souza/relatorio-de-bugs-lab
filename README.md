@@ -1,6 +1,6 @@
 # Atividade: Primeiro Teste de Software
 
-**Estudante:** Mário Alves Fernandes Neto  
+**Estudante:** Emiliano Ferreira de Souza Junior
 **Curso e período:** Bacharelado em Sistemas de Informação, 8º período  
 **Disciplina:** Teste de Software
 
